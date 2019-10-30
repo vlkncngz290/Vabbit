@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vabbit_ikinci_atis</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_arkadaslar">arkadaslar</string>
+    <string name="title_activity_mesaj_gonder">MesajGonder</string>
+    <string name="title_activity_mesaj_oku">mesajOku</string>
+    <string name="title_activity_sifre_coz_oku">sifreCozOku</string>
+</resources>

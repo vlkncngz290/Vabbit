@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rabbit\Desktop\deneme\Vabbit_ikinci_atis\app\libs\AndroidPlugin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1978b828f29bf43557e9789eb282bd4d3c32255e">
+        <dex dex="C:\Users\rabbit\Desktop\deneme\Vabbit_ikinci_atis\app\build\intermediates\pre-dexed\debug\AndroidPlugin-dcf4c000aea9eb8811701211a79a527e3344b7fc.jar" />
+    </item>
+
+</items>
